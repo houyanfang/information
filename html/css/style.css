@@ -334,15 +334,15 @@ label.line {
 	position:relative;
 	text-align:center;
 }
-.edu-devide h4{
+.edu-devide h3{
 	color:#2b3b4b;
 	background:#d4d4d4;
 	padding:10px;
 	text-transform:uppercase;
-	font-size:20px;
+	font-size:30px;
 	display: block;
 	text-align:center;
-	width:15%;
+	width:20%;
 	font-weight:800;
 	border-radius:6px;
 	-webkit-border-radius:6px;
