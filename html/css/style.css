@@ -551,9 +551,7 @@ h2.resp-accordion {
 .portfolio-grids img.img-responsive {
     width: 100%;
 }
-.portfolio-grids.grid.grid-mdl {
-    margin: 2em 0;
-}
+.tab-margin{margin:20px 0px;}
 .grid .figcaption::before,
 .grid .figcaption::after {
 	pointer-events: none;
@@ -773,10 +771,10 @@ input[type="submit"]:hover{
 	.people-grid {
 		left: 60.5%;
 	}
-	.portfolio-grids.grid ,.portfolio-grids.grid.grid-mdl{
-		width: 31.3%;
+	.portfolio-grids .grid{
+		width: 30%;
 		float: left;
-		margin:1%;
+		margin:10px 5px;
 		padding:0;
 	}
 	.agile1 {
@@ -864,8 +862,8 @@ input[type="submit"]:hover{
 	.people-grid {
 		left: 62.5%;
 	}
-	.portfolio-grids.grid, .portfolio-grids.grid.grid-mdl {
-		width: 48%;
+	.portfolio-grids .grid {
+		width: 100%;
 	}
 	.edu-devide {
 		text-align: left;
@@ -996,7 +994,7 @@ input[type="submit"]:hover{
 		float: left;
 	}
 
-	.portfolio-grids.grid, .portfolio-grids.grid.grid-mdl {
+	.portfolio-grids .grid {
 		width: 100%;
 		margin:3%;
 	}
